@@ -1,0 +1,6 @@
+doc/html
+doc/latex
+*.o
+*.dat
+*.out
+*.hos
