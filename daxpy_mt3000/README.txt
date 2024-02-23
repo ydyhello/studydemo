@@ -1,0 +1,3 @@
+daxpy在MT3000平台的实例实现
+
+需要在make.conf文件中配置mt3000编译工具链、hthread库的路径。
